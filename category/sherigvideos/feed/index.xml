@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>videos &#8211; Education Department</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Tibetan childrens Educational welfare fund</description>
+	<lastBuildDate>Mon, 03 Aug 2020 11:59:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Education Department Releases Its First Ever Tibetan Animated Film for Children</title>
+		<link>./../../../education-department-releases-its-first-ever-tibetan-animated-film-for-children/index.html</link>
+		
+		<dc:creator><![CDATA[Sherig Dragya]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2017 15:30:18 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[videos]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=6955</guid>
+
+					<description><![CDATA[Dharamshala: Promoting language, identity, culture and traditional history through digital storytelling, the Department of Education, CTA released its first ever animated film on all-time favourite fable, དྲན་པ་བརྗེད་སླ་བའི་ཨ་ཁུ་ཕག་པ་། (the Forgetful Agu Phagpa) and a Tibetan dubbed version of Buddha’s Sutra, Life of Buddha. The ceremony was attended by Kalon Ngodup Tsering, Department of Education, Secretaries Nangsa...]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

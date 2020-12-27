@@ -1,0 +1,38 @@
+/*
+Theme Name: Impreza Child
+Template: Impreza
+Version: 1.0
+Author:	UpSolution
+Theme URI: http://impreza.us-themes.com/
+Author URI: http://us-themes.com/
+*/
+
+/*Add your own styles here:*/
+/* @font-face {
+	font-family: 'himalaya';
+	src: url("./fonts/himalaya.ttf");
+	font-weight: normal;
+} */
+
+/* @font-face {
+	font-family: 'Qomolangma-UchenSarchen';
+	src: url("./fonts/Qomolangma-UchenSarchen.woff");
+	font-weight: normal;
+} */
+
+
+@font-face {
+	font-family: 'Qomolangma-UchenSarchen';
+	src: url('./fonts/Qomolangma-UchenSarchen.eot');
+	src: local('☺'), url('./fonts/Qomolangma-UchenSarchen.woff') format('woff'), url('./fonts/Qomolangma-UchenSarchen.ttf') format('truetype'), url('./fonts/Qomolangma-UchenSarchen.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'himalaya';
+	src: url('./fonts/himalaya.eot');
+	src: local('☺'), url('./fonts/himalaya.woff') format('woff'), url('./fonts/himalaya.ttf') format('truetype'), url('./fonts/himalaya.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sample Papers &#8211; Education Department</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Tibetan childrens Educational welfare fund</description>
+	<lastBuildDate>Thu, 15 Oct 2020 11:05:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Sample Paper (Wasatch Scholarship)</title>
+		<link>./../../../../sample-paper-wasatch-scholarship/index.html</link>
+		
+		<dc:creator><![CDATA[Sherig Dragya]]></dc:creator>
+		<pubDate>Wed, 12 Dec 2018 06:24:04 +0000</pubDate>
+				<category><![CDATA[Sample Papers]]></category>
+		<category><![CDATA[Syllabi]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=8322</guid>
+
+					<description><![CDATA[Sample Paper (Wasatch Scholarship, 2014) &#160; &#160;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tibetan Eligibility Test</title>
+		<link>./../../../../tibetan-eligibility-test/index.html</link>
+		
+		<dc:creator><![CDATA[Sherig Dragya]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2016 04:00:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sample Papers]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=6338</guid>
+
+					<description><![CDATA[Sample Paper of Tibetan Eligibility Test 2014-19]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TSP Sample Papers</title>
+		<link>./../../../../tsp-sample-papers/index.html</link>
+		
+		<dc:creator><![CDATA[Sherig Dragya]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2015 09:57:28 +0000</pubDate>
+				<category><![CDATA[Sample Papers]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=5837</guid>
+
+					<description><![CDATA[Tibetan Scholarship Program Simple Papers]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sample papers of MBBS and Engg.</title>
+		<link>./../../../../sample-paper-2012/index.html</link>
+		
+		<dc:creator><![CDATA[Sherig Dragya]]></dc:creator>
+		<pubDate>Sat, 16 Feb 2013 05:40:57 +0000</pubDate>
+				<category><![CDATA[Sample Papers]]></category>
+		<guid isPermaLink="false">http://sherig.org/?p=1414</guid>
+
+					<description><![CDATA[&#160;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
